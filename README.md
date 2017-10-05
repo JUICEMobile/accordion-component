@@ -1,4 +1,4 @@
-# accordion-component
+# Juice Mobile Accordion Slider Component
 JUICE Mobile Javascript Accordion Slider
 
 **Copyright (c) 2017, JUICEMobile
